@@ -1,0 +1,31 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MemTest", "Memory\MemTest.csproj", "{B09B75E6-9748-488B-9FA1-00CB4540D686}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PortIo", "PortIO\PortIo.csproj", "{4A2C9998-B1B3-4B73-82C0-45A9FFCDFE46}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LptApp", "LPT\LptApp.csproj", "{F8F65922-BBEB-41E8-A16A-E3FD194A436F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B09B75E6-9748-488B-9FA1-00CB4540D686}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B09B75E6-9748-488B-9FA1-00CB4540D686}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B09B75E6-9748-488B-9FA1-00CB4540D686}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B09B75E6-9748-488B-9FA1-00CB4540D686}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4A2C9998-B1B3-4B73-82C0-45A9FFCDFE46}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A2C9998-B1B3-4B73-82C0-45A9FFCDFE46}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4A2C9998-B1B3-4B73-82C0-45A9FFCDFE46}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4A2C9998-B1B3-4B73-82C0-45A9FFCDFE46}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F8F65922-BBEB-41E8-A16A-E3FD194A436F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F8F65922-BBEB-41E8-A16A-E3FD194A436F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F8F65922-BBEB-41E8-A16A-E3FD194A436F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F8F65922-BBEB-41E8-A16A-E3FD194A436F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
