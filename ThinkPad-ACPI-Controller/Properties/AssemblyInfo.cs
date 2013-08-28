@@ -5,12 +5,12 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("ThinkPad-ACPI-Controller")]
+[assembly: AssemblyTitle("ThinkPad ACPI Controller")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("ThinkPad-ACPI-Controller")]
-[assembly: AssemblyCopyright("Copyright ©  2013")]
+[assembly: AssemblyCompany("Paul Marston")]
+[assembly: AssemblyProduct("ThinkPad ACPI Controller")]
+[assembly: AssemblyCopyright("Copyright © Paul Marston 2013")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
